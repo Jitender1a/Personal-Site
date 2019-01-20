@@ -1,118 +1,110 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "name":"Jitender Singh",
+    "occupation":"Web Developer",
+    "description":"With a background in business managment and software developement. I like things many humans like such as coffee, travel, gym, and marvel movies! Good food and funny jokes are always a plus",
+    "image":"",
+    "bio":"I have progressive experience and knowledge across multiple domains. Self-starter, highly analytical, team-player, with advanced software engineering and project management skills. Looking to grow my experience while wearing multiple hats within the organization.",
+    "contactmessage":"Send Me A Message",
+    "email": "jitender.singh1020@gmail.com",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Fremont",
+      "state":"CA",
+      "zip": "94555"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/jitendersingh01/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/Jitender1a",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Fresno State University?",
+        "degree":"Bachelores in Business Management",
+        "graduated":"May 2017"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      }
+        "school":"DevMountain",
+        "degree":"Web Development",
+        "graduated":"January 2019" 
+     }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Wells Fargo",
+        "title":"Loan Service Specialist",
+        "years":"August 2017-July 2018",
+        "description":"Reviewed Deferred Fee, New Loan, Ad hoc Welcome letter, Billing Exceptions, Ground Rent, and Interest Adjustments reports daily and escalating potential issues for resolution. In charge of running a daily Loan to Board Report to confirm turnaround time for RECM, Warehouse and securitized loans. Monitored and processed transactions such as property address changes, hold code/vip code, parcel release, ground lease letters and securitization letter."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Intuit Inc",
+        "title":"Junior Business Analyst",
+        "years":"August 2016-December 2016",
+        "description":"Managed an IT security project from inception through completion to enhance cyber security. Successfully guided cross-functional teams and stakeholder groups through complex assessments. Evaluated information gathered from multiple sources, identified gaps, and translated business requirements into system solutions. Developed project plans, milestones, and schedules using MS Project."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"JavaScript",
+        "level":"100%"
+
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"React.js",
+        "level":"100%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Node.js",
+        "level":"100%"
+
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"PostresSql",
+        "level":"100%"
+      },
+      {
+        "name":"Redux",
+        "level":"100%"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"100%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"CSS",
+        "level":"100%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"SQL",
+        "level":"100%"
+      },
+      {
+        "name":"Git",
+        "level":"100%"
+      },
+      {
+        "name":"Github",
+        "level":"100%"
+      },
+      {
+        "name":"Vue.js",
+        "level":"100%"
+      },
+      {
+        "name":"MS VISIO",
+        "level":"100%"
       }
+      
     ]
   },
   "portfolio":{
@@ -128,36 +120,18 @@
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"",
+        "user":""
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":""
       }
     ]
   }
