@@ -3,7 +3,7 @@
     "name":"Jitender Singh",
     "occupation":"Web Developer",
     "description":"With a background in business managment and software developement. I like things many humans like such as coffee, travel, gym, and marvel movies! Good food and funny jokes are always a plus",
-    "image":"",
+    "image":"profilepic.PNG",
     "bio":"I have progressive experience and knowledge across multiple domains. Self-starter, highly analytical, team-player, with advanced software engineering and project management skills. Looking to grow my experience while wearing multiple hats within the organization.",
     "contactmessage":"Send Me A Message",
     "email": "jitender.singh1020@gmail.com",
@@ -126,8 +126,8 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"",
-        "user":""
+        "text":"I worked with Jitender at well's fargo for a year. He always got his work done on time and always willing to help others.",
+        "user":"Sunny Kim"
       },
       {
         "text":"",
