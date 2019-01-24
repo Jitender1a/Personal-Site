@@ -5,7 +5,7 @@
     "description":"With a background in business managment and software developement. I like things many humans like such as coffee, travel, gym, and marvel movies! Good food and funny jokes are always a plus",
     "image":"profilepic.jpg",
     "bio":"I have progressive experience and knowledge across multiple domains. Self-starter, highly analytical, team-player, with advanced software engineering and project management skills. Looking to grow my experience while wearing multiple hats within the organization.",
-    "contactmessage":"Send Me A Message",
+    "contactmessage":"PLEASE CONTACT ME VIA EMAIL OR PHONE",
     "email": "jitender.singh1020@gmail.com",
     "address":{
       "city":"Fremont",
@@ -41,16 +41,14 @@
     ],
     "work":[
       {
-        "company":"Wells Fargo",
-        "title":"Loan Service Specialist",
-        "years":"August 2017-July 2018",
-        "description":"Reviewed Deferred Fee, New Loan, Ad hoc Welcome letter, Billing Exceptions, Ground Rent, and Interest Adjustments reports daily and escalating potential issues for resolution. In charge of running a daily Loan to Board Report to confirm turnaround time for RECM, Warehouse and securitized loans. Monitored and processed transactions such as property address changes, hold code/vip code, parcel release, ground lease letters and securitization letter."
+        "company":"Complex Collection",
+        "years":"An Ecommerce Website",
+        "description":"Build Complex Collection an ecommerce website based around purchasing collectable sneakers. Complex Collection utilizes React for the front end as well as Redux for all state management. The site is built on a Node server and uses Axios to handle all HTTP requests between the front and back end. All customer and product data is hosted on a PostgreSQL database and transferred over an encrypted connection when it is called upon. Stripe API has been integrated to handle all payments with cards to insure the security of the users payment info."
       },
       {
-        "company":"Intuit Inc",
-        "title":"Junior Business Analyst",
-        "years":"August 2016-December 2016",
-        "description":"Managed an IT security project from inception through completion to enhance cyber security. Successfully guided cross-functional teams and stakeholder groups through complex assessments. Evaluated information gathered from multiple sources, identified gaps, and translated business requirements into system solutions. Developed project plans, milestones, and schedules using MS Project."
+        "company":"The Club",
+        "years":"Movie Streaming Service",
+        "description":"The site allows users to watch movies brought in from google drive. Users can search for the latest movie as well as being able to request a film. Users can search through our database which is linked with IMDB allows them to view the descriptions of the film as well as its rating. The Club utilizes react for the front end as well as redux for all state management. The main tech stack used is javascript, node, react, redux, HTML5, CSS, PostgreSQL."
       }
     ],
     "skills":[
