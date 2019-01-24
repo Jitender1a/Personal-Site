@@ -15,9 +15,9 @@ class Contact extends Component {
     }
 
     return (
-      <section id="contact">
+      <section>
 
-         <div className="row section-head">
+         {/* <div className="row section-head">
 
             <div className="two columns header-col">
 
@@ -31,9 +31,9 @@ class Contact extends Component {
 
             </div>
 
-         </div>
+         </div> */}
 
-         <div className="row">
+         {/* <div className="row">
             <div className="eight columns">
 
                <form action="" method="post" id="contactForm" name="contactForm">
@@ -109,8 +109,8 @@ class Contact extends Component {
                      </li> */}
                   {/* </ul> */}
 		         {/* </div> */}
-            </aside>
-      </div>
+            {/* </aside> */}
+      {/* </div> */} 
    </section>
     );
   }
