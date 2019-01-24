@@ -80,10 +80,11 @@ class Contact extends Component {
 
 					   <h4>Address and Phone</h4>
 					   <p className="address">
-						   {name}<br />
+						   {name}
 						   {street} <br />
 						   {city}, {state} {zip}<br />
-						   <span>{phone}</span>
+						   <span>Phone: 559-901-1254</span><br />
+                     <span>Email: jitender.singh1020@gmail.com</span>
 					   </p>
 				   </div>
 

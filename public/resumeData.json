@@ -3,7 +3,7 @@
     "name":"Jitender Singh",
     "occupation":"Web Developer",
     "description":"With a background in business managment and software developement. I like things many humans like such as coffee, travel, gym, and marvel movies! Good food and funny jokes are always a plus",
-    "image":"profilepic.PNG",
+    "image":"profilepic.jpg",
     "bio":"I have progressive experience and knowledge across multiple domains. Self-starter, highly analytical, team-player, with advanced software engineering and project management skills. Looking to grow my experience while wearing multiple hats within the organization.",
     "contactmessage":"Send Me A Message",
     "email": "jitender.singh1020@gmail.com",
@@ -29,7 +29,7 @@
   "resume":{
     "education":[
       {
-        "school":"Fresno State University?",
+        "school":"Fresno State University",
         "degree":"Bachelores in Business Management",
         "graduated":"May 2017"
       },
@@ -110,28 +110,24 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Complex Collection",
+        "category":"An ecommerece website for collectable sneakers.",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"http://104.248.210.60:3142/#/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"The Club",
+        "category":"Private movie streaming service.",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://leclubfilms.com/#/"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"I worked with Jitender at well's fargo for a year. He always got his work done on time and always willing to help others.",
+        "text":"I worked with Jitender at well's fargo for a year. He always got his work done on time and was always willing to help others. Jitender was able to pick up on new concepts fairly quickly which was a great advantage to our loans boarding team!",
         "user":"Sunny Kim"
-      },
-      {
-        "text":"",
-        "user":""
       }
     ]
   }
